@@ -21,7 +21,6 @@ __pycache__/
 
 # Matplotlib figures or outputs
 *.png
-*.jpg
 *.jpeg
 
 # Operating System files
