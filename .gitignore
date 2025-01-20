@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# C extensions
+*.o
+*.out
+*.obj
+
+# Temporary files
+*.temp
+*.tmp
+*.log
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Images and large data files
+dog.jpg
+
+# Matplotlib figures or outputs
+*.png
+*.jpg
+*.jpeg
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+env/
+venv/
+*.venv
+
+# IDE-specific files
+.idea/
+.vscode/
+*.code-workspace
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
