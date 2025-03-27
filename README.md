@@ -13,7 +13,7 @@ This repository contains solutions and implementations for various lab tasks ass
    ```bash
    git clone https://github.com/himaenshuu/cvdl.git
    ```
-2. Navigate to the specific task directory:
+2. Navigate to the specific task directory:-
    ```bash
    cd lab1.py
    ```
